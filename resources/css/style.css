@@ -50,7 +50,7 @@ section:nth-of-type(even) {
 .sec-title span {
     font-size: 16px;
     text-transform: uppercase;
-    color: #c71585;
+    color: #B22514;
 }
 
 .sec-title h3 {
@@ -69,7 +69,7 @@ section:nth-of-type(even) {
 }
 
 .header .logo {
-    color: #c71585;
+    color: #B22514;
     padding: 0 20px;
     float: left;
     font-size: 2em;
@@ -123,7 +123,7 @@ section:nth-of-type(even) {
 }
 
 #particles-js .arrow a {
-    color: #c71585;
+    color: #B22514;
 }
 
 #particles-js .arrow a:hover {
@@ -166,7 +166,7 @@ section:nth-of-type(even) {
 }
 
 .home .name span {
-    color: #c71585;
+    color: #B22514;
 }
 
 .home .text h3 {
@@ -199,11 +199,11 @@ section:nth-of-type(even) {
 }
 
 .home .social-link a:hover {
-    color: #c71585;
+    color: #B22514;
 }
 
 .home .social-link li:nth-of-type(even) a{
-    color: #c71585;
+    color: #B22514;
 }
 
 .home .social-link li:nth-of-type(even) a:hover {
@@ -269,7 +269,7 @@ section:nth-of-type(even) {
     width: 0;
     border-radius: 5px;
     transition: 3s;
-    background-color: #c71585;
+    background-color: #B22514;
 }
 
 .about .right {
@@ -306,7 +306,7 @@ section:nth-of-type(even) {
     content: "";
     position: absolute;
     width: 0;
-    background-color: #c71585;
+    background-color: #B22514;
     height: 2px;
     left: 0;
     bottom: -5px;
@@ -373,7 +373,7 @@ section:nth-of-type(even) {
     width: 0;
     border-radius: 5px;
     transition: 3s;
-    background-color: #c71585;
+    background-color: #B22514;
 }
 
 /* ===== Services ===== */
@@ -416,7 +416,7 @@ section:nth-of-type(even) {
 }
 
 .services .ser-box:hover {
-    color: #c71585;
+    color: #B22514;
     border-radius: 10px;
     box-shadow: 0 0 15px #dfd6d6;
 }
@@ -486,7 +486,7 @@ section:nth-of-type(even) {
 }
 
 .testimonial .tm-item:hover {
-    color: #c71585;
+    color: #B22514;
 }
 
 .testimonial img {
@@ -505,7 +505,7 @@ section:nth-of-type(even) {
 }
 
 .testimonial button.active span {
-    background: #c71585 !important;
+    background: #B22514 !important;
 }
 
 /* ===== Contact ===== */
@@ -556,7 +556,7 @@ section:nth-of-type(even) {
 }
 
 .contact input:focus, .contact textarea:focus {
-    border-color: #c71585;
+    border-color: #B22514;
 }
 
 .contact input:focus-visible, .contact textarea:focus-visible {
@@ -565,7 +565,7 @@ section:nth-of-type(even) {
 
 .contact button:hover {
     cursor: pointer;
-    border-color: #c71585;
+    border-color: #B22514;
     color: #c71585;
 }
 
@@ -582,7 +582,7 @@ footer {
     margin-top: auto;
     padding: 25px 0;
     background: #11202c;
-    color: #c71585;
+    color: #B22514;
     text-align: center;
 }
 
